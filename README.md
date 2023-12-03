@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamlmaooo
 - 👀 I’m interested in desktop, mobile, and full stack web development.
-- 👨‍🎓 Special Science Class student at TDEL
+- 👨‍🎓 STEM student at TDEL
 - 🌱 I’m currently learning Python, VB.net, C++, and Javascript.
 
 <!---
